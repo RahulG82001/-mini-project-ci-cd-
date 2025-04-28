@@ -1,0 +1,6 @@
+site_name: To-Do List App Documentation
+
+nav:
+  - Home: index.md
+theme:
+  name: readthedocs
